@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harsh Singh 👋</h1>
+<h1 align="center">Hi, I'm Harsh Singh </h1>
 
 <p align="center">
   <b>ML/AI + Full-stack Developer</b><br>
@@ -20,9 +20,9 @@
 
 I work across the stack — from training and evaluating machine learning models to shipping full web apps around them. I care about the parts most projects skip: how models behave on the rare, hard cases, and how a clean interface makes them actually usable.
 
-- 🔭 Currently exploring **ML for security & anomaly detection**
-- 🌱 Comfortable moving between **notebooks and production code**
-- 💬 Ask me about **ML pipelines, Flask APIs, and the MERN/EJS stack**
+- Currently exploring **ML for security & anomaly detection**
+- Comfortable moving between **notebooks and production code**
+- Ask me about **ML pipelines, Flask APIs, and the MERN/EJS stack**
 
 ---
 
